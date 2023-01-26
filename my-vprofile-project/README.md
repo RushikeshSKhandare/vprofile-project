@@ -1,4 +1,4 @@
-#####These are the steps####
+#####These are the steps you write something ####
 ### Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
